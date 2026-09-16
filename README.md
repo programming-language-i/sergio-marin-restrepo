@@ -1,1 +1,2 @@
-# sergio-marin-restrepo
+# Sergio Marin Restrepo
+Lenguaje de programacion 1
